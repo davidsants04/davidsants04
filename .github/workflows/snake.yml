@@ -17,7 +17,8 @@ jobs:
         with:
           github_user_name: davidsants04   
           outputs: dist/snake.svg
-          color: '#000000'                 # Cor preta em hex
+          color: '#000000'
+          background: '#121212'
 
       - name: Push generated SVG to output branch
         uses: actions/configure-pages@v3
