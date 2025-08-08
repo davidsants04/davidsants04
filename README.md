@@ -15,6 +15,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
 </p>
 
+![Snake animation](https://github.com/davidsants04/davidsants04/blob/output/snake.svg)
 
 Native Language: Portuguese <br>
 English: Middle
